@@ -129,14 +129,14 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
+
 #PULSE CODE MODULATION
 ![WhatsApp Image 2025-09-29 at 13 28 45_a270ae2d](https://github.com/user-attachments/assets/bd99142f-dc4c-4a7e-9933-a4c75ae69917)
-```
-```
+
+
 #DELTA MODULATION
 ![WhatsApp Image 2025-09-29 at 13 28 45_c4b4fcf8](https://github.com/user-attachments/assets/28c24730-2d15-404c-be6e-e6aacd24c3a7)
-```
+
 # Results
 ```
 Pulse Code Modulation (PCM) converts analog signals into digital form by sampling and quantizing, resulting in a series of binary-coded pulses representing absolute amplitudes. Delta Modulation (DM), on the other hand, encodes only the change in amplitude between samples, producing a single-bit pulse stream. Thus, PCM offers higher accuracy with more bits, while **DM provides simplicity and lower bit rates.
